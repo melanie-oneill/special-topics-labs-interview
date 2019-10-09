@@ -5,7 +5,7 @@ To give you a better idea of "real" GitHub workflows, I want you to fill out the
 1. They don't want to allow direct push access to their repository, because they want to choose whether or not to accept the patch (perhaps they need to require a license agreement, or they want to make sure all tests pass before taking the patch)
 1. They want to be able to give feedback on the patch before accepting it (perhaps it violates coding standards, or is missing tests, etc.)
 
-For git repositories with these types of requirements, GitHub has the [pull request](https://help.github.com/en/articles/about-pull-requests) process. Pull requests let a third party propopse a patch to the repository, and let reviewers (either human or machine) provide feedback and request additional changes for the patch. 
+For git repositories with these types of requirements, GitHub has the [pull request](https://help.github.com/en/articles/about-pull-requests) process. Pull requests let a third party propopse a patch to the repository, and let reviewers (either human or machine) provide feedback and request additional changes for the patch.
 
 There are multiple ways to make a pull request.  For open source development, adding everyone who wants to send a pull request as a collaborator to that repository is infeasible (even if there are fine-grained permissions to allow for "pull-request-proposer only").  So their pull request model more generally follows this pattern:
 1. User Bob wants to contribute to project `next-best-thing` (which is publicly available on GitHub).  User Nancy is a "maintainer" of `next-best-thing`.  That means that Nancy has the rights to modify the repo (merging commits, rebasing, etc.).
@@ -33,13 +33,20 @@ Hello!  In the rush that is the start of the term, I really haven't had a chance
 
 Q1: So you're finishing up your time in this CSCC program.  Why did you decide to embark on this journey?
 
+* _Melanie_: I have a technical role but don't actually know how to develop so I wanted to learn and this seemed like a great opportunity to do so!
+
 Q2: I _love_ to travel.  Tell me a bit about your favorite travel destination so far.  What's on your travel bucket list?
+
+* _Melanie_: I went to Alaska this past Spring and I absolutely loved it. I would like to go back there sometime but I think the two places on my ultimate travel bucket list are the Galapagos Islands and Greece.
 
 Q3: Name your favorite member of [The Beatles](https://en.wikipedia.org/wiki/The_Beatles), and your favorite Beatles song.  You do know at least one Beatles song, right?  If you are a Beatles fan, feel free to give me your top 5 or so.
 
-Q4: Do you have any pets? Species/Name/Details please. [Murray](images/Murray.jpeg?raw) wants to know... (he's not as smart as that picture makes him seem). 
+* _Melanie_: I feel like Ringo Starr is underappreciated. I understand that maybe he didn't necessarily contribute the most, but the Beatles were the Beatles because they were all there.
+
+Q4: Do you have any pets? Species/Name/Details please. [Murray](images/Murray.jpeg?raw) wants to know... (he's not as smart as that picture makes him seem).
+
+* _Melanie_: I have a mutt named Sam, she's like nine or ten years old. I'm her at least fourth owner. She hates faces. (Seriously, if someone puts their face too close to hers, she'll nip them)
 
 
 ## Submitting Your Work
 Once I have merged your pull request into my repo, please submit your repo along with a screenshot of your pull request in Blackboard.
-
