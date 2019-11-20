@@ -41,7 +41,7 @@ Q2: I _love_ to travel.  Tell me a bit about your favorite travel destination so
 
 Q3: Name your favorite member of [The Beatles](https://en.wikipedia.org/wiki/The_Beatles), and your favorite Beatles song.  You do know at least one Beatles song, right?  If you are a Beatles fan, feel free to give me your top 5 or so.
 
-* _Melanie_: I feel like Ringo Starr is underappreciated. I understand that maybe he didn't necessarily contribute the most, but the Beatles were the Beatles because they were all there.
+* _Melanie_: I feel like Ringo Starr is underappreciated. I understand that maybe he didn't necessarily contribute the most, but the Beatles were the Beatles because they were all there. My favorite song growing u pwas definietly Yellow Submarine. Maxwell's Silver Hammer always creeped me out. Now, I think Eleanor Rigby is really interesting, catchy song. 
 
 Q4: Do you have any pets? Species/Name/Details please. [Murray](images/Murray.jpeg?raw) wants to know... (he's not as smart as that picture makes him seem).
 
